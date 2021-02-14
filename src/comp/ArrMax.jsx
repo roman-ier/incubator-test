@@ -31,6 +31,7 @@ const ArrMax = () => {
             <div>Первый минимальный элемент - №{indMn + 1} = {arr[indMn]}</div>
             <div>Первый максимальный элемент - №{indMx + 1} = {arr[indMx]}</div>
 
+
         </div>
     }
     return (
